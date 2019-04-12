@@ -1,0 +1,10 @@
+[
+    {
+        "merchant": "john.inc",
+        "target_version": "1"
+    },
+    {
+        "merchant": "denzel.ltd",
+        "target_version": "2"
+    }
+]
