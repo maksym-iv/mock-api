@@ -2,11 +2,13 @@
     "clients": [
         {
             "merchant": "john.inc",
-            "target_version": "2"
+            "target_version": "2",
+            "canary": false
         },
         {
             "merchant": "denzel.ltd",
-            "target_version": "3"
+            "target_version": "3",
+            "canary": true
         }
     ],
     "version": {
